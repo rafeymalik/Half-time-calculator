@@ -1,2 +1,2 @@
-# Isha-End-Time-Calculator
-Calculate the end time for the Isha prayer based on the start of fajr and start of Isha.
+# Middle of time calculator
+Calculate the time in between two given times
